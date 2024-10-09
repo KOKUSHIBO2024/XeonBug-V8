@@ -10,15 +10,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "+50933864802"
+global.ownername = "ANONYMUS"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '+50933864802'  //creator number
+global.ownername = 'ANONYMUS' //owner name
+global.botname = 'ANONYMUS BUG-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -62,11 +62,11 @@ global.mess = {
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'OU PA OWNER FR😂',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    wait: 'FON TI TANN... ',    
+    error: 'PA KONN SAK PASE!',
 }
 
 global.thumb = fs.readFileSync('./GlobalMedia/thumb.jpg')
