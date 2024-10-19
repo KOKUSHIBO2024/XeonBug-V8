@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "+50933864802"
+global.ownername = "𝐺𝛥𝐵𝛪𝛭𝛥𝑅𝑈🎭"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownernumber = '+50933864802'  //creator number
+global.ownername = '𝐺𝛥𝐵𝛪𝛭𝛥𝑅𝑈' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
@@ -60,12 +60,12 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
+    admin: 'This feature can be used by admin only promote me dude',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
+    wait: 'fon ti tann... ',    
     error: 'Error!',
 }
 
